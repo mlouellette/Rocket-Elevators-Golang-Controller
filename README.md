@@ -13,8 +13,8 @@ Run program needs:
 
 - With golang installed on your computer, all you need to do is initialize the module:
 
-go mod init Rocket-Elevators-Commercial-Controller`
+go mod init Rocket-Elevators-Commercial-Controller
 
 - The code to run the scenarios is included, and can be executed with:
 
-go run . <SCENARIO-NUMBER>`
+go run . SCENARIO-NUMBER
